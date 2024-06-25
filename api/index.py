@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-  return redirect("https://fbe7bc82cda1d14a7b.gradio.live")
+  return redirect("https://20bfdb7a1cdc369844.gradio.live")
 
 if __name__ == "__main__":
   app.run()
